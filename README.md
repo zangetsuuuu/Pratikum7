@@ -149,7 +149,7 @@ def ubah():
         print("Nama tidak ditemukan!\n")
 ```
 
-- Membuat fungsi untuk menghapus data mahasiswa berdasarkan nama dengan menggunakan `def ubah()`
+- Membuat fungsi untuk menghapus data mahasiswa berdasarkan nama dengan menggunakan `def hapus()`
 - *User* dapat menghapus data dengan memasukkan data nama yang ingin dihapus kemudian data tersebut akan dihapus dari *dictionary*
 
 ```python
